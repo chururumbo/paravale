@@ -1,6 +1,7 @@
-Un pequeño detalle para Val.
-Si desean usarlo, detalles del como funciona mas abajo, créditos al final. Espero les guste
-Resumido: Index para mensaje principal, edición de texto de los botones. en el archivo Js el de los mensajes al dar No. 
+# Will You Be My Valentine? 💌
+
+This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration and avoid simply copying it without understanding or giving credit.
+
 ---
 
 ## How It Works 
@@ -52,8 +53,8 @@ If you use this code as a base for your own project, please give credit where it
 
 ## License 📄
 
-Para mas detalles, ver [LICENSE](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Gracias por ver.
+Enjoy 💖
